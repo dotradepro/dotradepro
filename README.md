@@ -2,7 +2,7 @@
 
 Independent developer. I build **local-first, self-hosted software** — things that run on your own hardware, keep your data at home and don't need a subscription — plus tools that **automate the boring parts** of running GPUs, smart homes and AI.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors)](https://github.com/sponsors/dotradepro)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors)](https://github.com/sponsors/dotradepro) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/dotradepro)
 
 ---
 
@@ -35,8 +35,8 @@ Also in the works (private for now): AI agents that write, review and deploy cod
 
 #### ❤ Support
 
-Everything above is built in my own time, on my own hardware. Sponsorship pays for test devices (GPUs, Jetson, Zigbee gear), servers and the hours that go into these projects. **[github.com/sponsors/dotradepro](https://github.com/sponsors/dotradepro)** — any amount helps. Sponsorship is pure support; Clore Panel Pro is bought separately inside the panel.
+Everything above is built in my own time, on my own hardware. Sponsorship pays for test devices (GPUs, Jetson, Zigbee gear), servers and the hours that go into these projects. **[GitHub Sponsors](https://github.com/sponsors/dotradepro)** or **[Ko-fi](https://ko-fi.com/dotradepro)** — any amount helps. Sponsorship is pure support; Clore Panel Pro is bought separately inside the panel.
 
 ---
 
-<sub>🇺🇦 Незалежний розробник: локальні програми, що працюють на вашому залізі без хмари й підписок (розумний дім Selena з офлайн-голосовим асистентом), та автоматизація роботи з GPU (Clore Panel). Підтримати всі проєкти — [GitHub Sponsors](https://github.com/sponsors/dotradepro).</sub>
+<sub>🇺🇦 Незалежний розробник: локальні програми, що працюють на вашому залізі без хмари й підписок (розумний дім Selena з офлайн-голосовим асистентом), та автоматизація роботи з GPU (Clore Panel). Підтримати всі проєкти — [GitHub Sponsors](https://github.com/sponsors/dotradepro) або [Ko-fi](https://ko-fi.com/dotradepro).</sub>
