@@ -35,7 +35,7 @@ Also in the works (private for now): AI agents that write, review and deploy cod
 
 #### ❤ Support
 
-Everything above is built in my own time, on my own hardware. Sponsorship pays for test devices (GPUs, Jetson, Zigbee gear), servers and the hours that go into these projects. **[github.com/sponsors/dotradepro](https://github.com/sponsors/dotradepro)** — any amount helps; from $5/month or $49 one-time you also get **Clore Panel Pro**.
+Everything above is built in my own time, on my own hardware. Sponsorship pays for test devices (GPUs, Jetson, Zigbee gear), servers and the hours that go into these projects. **[github.com/sponsors/dotradepro](https://github.com/sponsors/dotradepro)** — any amount helps. Sponsorship is pure support; Clore Panel Pro is bought separately inside the panel.
 
 ---
 
